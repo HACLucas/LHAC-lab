@@ -1,6 +1,7 @@
 - Olá, me chamo Lucas
+- Cursando Analise e Desenvolvimento de Sistemas na Fatec Campinas - 1° semestre
 - Tenho interesse em: automação de tarefas e processos, desenvolvimento mobile, IA.
-- Atualemnte estou focando em Python, mas tenho um pouco de conhecimento em C , HTML , CSS e JS.
+- Atualmente estudando Python, mas tenho um pouco de conhecimento em C , HTML , CSS e JS.
 - Estou aberto a colaborações.
 
 
